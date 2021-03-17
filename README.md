@@ -47,10 +47,9 @@ Go through the individual course folders for more details about how to get start
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+▫️ Follow the instructions given in each course folders to complete the given task for the week. 
+▫️ Complete the tasks at your own pace and further explore on your own to learn more.
+▫️ More importantly, have fun while learning!
 
 
 <!-- CONTRIBUTING -->
