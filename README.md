@@ -37,6 +37,11 @@
 <!-- ABOUT THE COURSE -->
 ## About The Course
 
+Project Zenith is a student friendly program aimed at developing and narrowing down the skills of a student in a particular discipline. We provide them with the opportunity to develop their interest and improve their technical prowess in their chosen domain. Students are continuously mentored by the members of Tech Club - SSN.
+
+The goal of Project Zenith is for students to gain knowledge and experience by taking up any project and arriving at it by working from their basics. This includes regular assignments and weekly meetings with their respective domain heads. Students are also expected to meet their deadlines which allows them to be accountable for their work. 
+
+Project Zenith also helps any individual to improve their professional skills, draft an excellent Curriculum Vitae and a valuable asset for anyone who is interested in pursuing their Masters abroad. 
 
 
 <!-- GETTING STARTED -->
