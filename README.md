@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/techclubssn/Project-Zenith">
-    <img src="https://github.com/techclubssn/techclubssn.github.io/blob/master/imgs/logo3.png?raw=true" alt="Logo" width="120" height="120">
+    <img src="https://github.com/techclubssn/techclubssn.github.io/blob/master/imgs/tech_club_noalpha.png?raw=true" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Project Zenith</h3>
