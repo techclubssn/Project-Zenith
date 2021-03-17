@@ -47,9 +47,9 @@ Go through the individual course folders for more details about how to get start
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-▫️ Follow the instructions given in each course folders to complete the given task for the week. 
-▫️ Complete the tasks at your own pace and further explore on your own to learn more.
-▫️ More importantly, have fun while learning!
+▫️ Follow the instructions given in each course folders to complete the given task for the week. <br/>
+▫️ Complete the tasks at your own pace and further explore on your own to learn more. <br/>
+▫️ More importantly, have fun while learning! <br/>
 
 
 <!-- CONTRIBUTING -->
