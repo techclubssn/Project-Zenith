@@ -79,14 +79,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Niranjan Kumar I - niranjankumar.redragon@gmail.com - email
+Niranjan Kumar I - niranjankumar.redragon@gmail.com
 
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
