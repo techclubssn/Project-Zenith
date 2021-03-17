@@ -10,7 +10,7 @@
   <h3 align="center">Project Zenith</h3>
 
   <p align="center">
-    Promoting Self-learning :small_orange_diamond: Providing hands-on experience
+    Promoting Self-learning :small_orange_diamond: Hands-on experience
     <br />
   </p>
 </p>
