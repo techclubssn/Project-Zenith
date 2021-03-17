@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/techclubssn/techclubssn.github.io/blob/master/imgs/logo3.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Project Zenith</h3>
