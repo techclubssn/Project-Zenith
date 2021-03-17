@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="https://github.com/techclubssn/techclubssn.github.io/blob/master/imgs/logo3.png?raw=true" alt="Logo" width="80" height="80">
+  <a href="https://github.com/techclubssn/Project-Zenith">
+    <img src="https://github.com/techclubssn/techclubssn.github.io/blob/master/imgs/logo3.png?raw=true" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Project Zenith</h3>
